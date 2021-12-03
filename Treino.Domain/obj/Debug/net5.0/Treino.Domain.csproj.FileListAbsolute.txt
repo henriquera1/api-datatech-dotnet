@@ -1,0 +1,15 @@
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\bin\Debug\net5.0\Treino.Domain.deps.json
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\bin\Debug\net5.0\Treino.Domain.runtimeconfig.json
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\bin\Debug\net5.0\Treino.Domain.runtimeconfig.dev.json
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\bin\Debug\net5.0\Treino.Domain.dll
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\bin\Debug\net5.0\ref\Treino.Domain.dll
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\bin\Debug\net5.0\Treino.Domain.pdb
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\Treino.Domain.csproj.AssemblyReference.cache
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\Treino.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\Treino.Domain.AssemblyInfoInputs.cache
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\Treino.Domain.AssemblyInfo.cs
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\Treino.Domain.csproj.CoreCompileInputs.cache
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\Treino.Domain.dll
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\ref\Treino.Domain.dll
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\Treino.Domain.pdb
+C:\Users\riqui\Desktop\Projetos\api-treino\Treino.Domain\obj\Debug\net5.0\Treino.Domain.genruntimeconfig.cache
